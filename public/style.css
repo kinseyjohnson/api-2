@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color:  #FAF9F6;
+}
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#dataContainer {
+    margin-top: 100px;
+    /* margin-left: 550px; */
+}
+
+.form {
+    text-align: center;
+}
+
+

@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: linear-gradient(to bottom, #ccffff -33%, #66ccff 130%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+
+}
